@@ -24,6 +24,10 @@ html {
   scroll-behavior: smooth;
 }
 
+ol,
+li {
+  font-size: 14px;
+}
 /* intro */
 .intro {
   position: fixed;
